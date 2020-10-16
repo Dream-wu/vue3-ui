@@ -5,4 +5,4 @@ vue3 新语法实践
 12.14.1
 
 # carousel 轮播组件
-en 
+![carousel](./src/assets/img/xiaoguo.png)
